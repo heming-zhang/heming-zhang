@@ -9,11 +9,8 @@ Agentic AI • Large Reasoning Model • Multi-omics • Precision Medicine
 - **BioMedGraphica**: An All-In-One Biomedical KG Platform  
 - **GALAX**: Graph-Augmented LLM with Process Rewards for Subgraph Reasoning
 - **OmniCellTOSG**: Single-cell Text-Omic Signaling Graphs Datasets and Foundation Model
+- **M3NetFlow**: A Multi-omic Analysis Tool
 
-### ⭐ Featured
-- [OmniCellTOSG](https://github.com/FuhaiLiAiLab/OmniCellTOSG)
-- [BioMedGraphica](https://github.com/FuhaiLiAiLab/BioMedGraphica)
-- [GALAX](https://github.com/FuhaiLiAiLab/GALAX)
 
 ### 📈 By the numbers
 ![stats](https://github-readme-stats.vercel.app/api?username=Heming-Zhang&show_icons=true)
