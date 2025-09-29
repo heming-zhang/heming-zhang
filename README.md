@@ -10,3 +10,7 @@ Agentic AI • Large Reasoning Model • Multi-omics • Precision Medicine
 - **GALAX**: Graph-Augmented LLM with Process Rewards for Subgraph Reasoning
 - **OmniCellTOSG**: Single-cell Text-Omic Signaling Graphs Datasets and Foundation Model
 - **M3NetFlow**: A Multi-omic Analysis Tool
+
+### 📈 By the numbers
+![stats](https://github-readme-stats.vercel.app/api?username=Heming-Zhang&show_icons=true)
+![langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Heming-Zhang&layout=compact)
