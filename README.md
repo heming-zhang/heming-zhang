@@ -13,6 +13,6 @@ Agentic AI · Large Reasoning Models · Multi-omics · Precision Medicine
 - **M3NetFlow** — multi-scale, multi-hop network-flow toolkit for integrative multi-omics
 
 ## 🧪 Datasets & Models 
-- 🧬 **Target-QA** benchmarks
-- 🧫 **OmniCellTOSG** datasets
-- 🤖 Graph foundation components (GLFMs), **GALAX**
+- 🧬 **Target-QA** benchmark
+- 🧫 **OmniCellTOSG** dataset
+- 🤖 Graph-Language Foundation Model (GLFMs), **GALAX**
