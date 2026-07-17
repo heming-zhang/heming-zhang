@@ -1,4 +1,4 @@
-# Heming Zhang · Biomedical AI @ WashU
+# Heming Zhang · Biomedical AI @ Harvard Medical School
 Agentic AI · Large Reasoning Models · Multi-omics · Precision Medicine
 
 [![Google Scholar](https://img.shields.io/badge/Scholar-Heming%20Zhang-4285F4)](https://scholar.google.com/citations?hl=en&user=UCUXz3cAAAAJ)
